@@ -1,4 +1,4 @@
-import { actualizarCarrito } from "./actualizarCarrito";
+import { actualizarCarrito } from "./actualizarCarrito.js";
 import { mostrarProductos } from "./App.js";
 import { eliminarProductoCarrito } from "./carritoIndex.js";
 

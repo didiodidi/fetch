@@ -31,7 +31,7 @@ export const mostrarProductos = async () => {
 
             text: `se añadio el producto ${producto.nombre} al carrito`,
             
-            duration: 2000
+            duration: 1500
             
             }).showToast();
     })
